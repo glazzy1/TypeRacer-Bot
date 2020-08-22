@@ -2,7 +2,7 @@ import os
 import time
 import pyautogui
 
-os.system('cls && title [typeracer.com typer] - Main Menu')
+os.system('cls && title [TypeRacer Bot] - Main Menu')
 speed = input(
     '[1] Legit\n'
     '[2] Fast\n'
@@ -22,23 +22,23 @@ elif speed.upper() in ('HACKER', '4'):
 else:
     print('\n[!] Invalid option.')
     os.system(
-        'title [typeracer.com typer] - Restart required && '
+        'title [TypeRacer Bot] - Restart required && '
         'pause >NUL && '
-        'title [typeracer.com typer] - Exiting...'
+        'title [TypeRacer Bot] - Exiting...'
     )
     time.sleep(3)
     os._exit(0)
 
 text = input('\n[>] Text: ')
 searching = True
-os.system('title [typeracer.com typer] - Waiting for match to start...')
+os.system('title [TypeRacer Bot] - Waiting for match to start...')
 
 while searching:
     try:
         pyautogui.click('txtInput.png')
     except TypeError:  # Image not located
         continue
-    os.system('title [typeracer.com typer] - Typing...')
+    os.system('title [TypeRacer Bot] - Typing...')
     searching = False
 
 start_time = time.time()
@@ -46,8 +46,8 @@ try:
     pyautogui.write(text, interval=speed)
 except pyautogui.FailSafeException:
     print('\n[!] Stopped due to mouse being located at a corner of the screen — SAFE MODE')
-    os.system('title [typeracer.com typer] - Stopped && pause >NUL')
+    os.system('title [TypeRacer Bot] - Stopped && pause >NUL')
 else:
     stop_time = time.time()
     print(f'\n[!] Elapsed Time: {round(stop_time - start_time, 2)} seconds')
-    os.system('title [typeracer.com typer] - Finished && pause >NUL')
+    os.system('title [TypeRacer Bot] - Finished && pause >NUL')
