@@ -33,14 +33,13 @@ Private matches:
 2. Select the desired speed.
 3. Visit [play.typeracer.com](https://play.typeracer.com).
 4. Launch **DevTools**. If you use Chrome, CTRL + SHIFT + I or F12.
-5. Click "Race your friends" on the website.
-6. Click "join race" on the website.
-7. CTRL + SHIFT + C or click [this arrow](https://i.imgur.com/zvxm2Aw.png).
-8. Select [the text](https://i.imgur.com/3D5SacJ.png).
-9. Right click on the selected element in **DevTools**, and click "Edit as HTML".
-10. Copy [the text](https://i.imgur.com/cN83wmr.png) and paste it in the program. Note: the first word may sometimes be excluded. Simply type it in manually if excluded.
-11. Go back to the match, and make sure the txtInput field is visible.
-12. Lay back and watch!
+5. Click "Race your friends", then "join race" on the website.
+6. CTRL + SHIFT + C or click [this arrow](https://i.imgur.com/zvxm2Aw.png).
+7. Select [the text](https://i.imgur.com/3D5SacJ.png).
+8. Right click on the selected element in **DevTools**, and click "Edit as HTML".
+9. Copy [the text](https://i.imgur.com/cN83wmr.png) and paste it in the program. Note: the first word may sometimes be excluded. Simply type it in manually if excluded.
+10. Go back to the match, and make sure the txtInput field is visible.
+11. Lay back and watch!
 
 ## Legal Notice
 This is against TypeRacer's Terms of Service. I am not accountable for any of your actions; this was merely a speedrun to demonstrate how automation/cheating works. Please do not misuse this tool.
