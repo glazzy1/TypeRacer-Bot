@@ -8,7 +8,7 @@ It works in public, as well as private matches with friends.
 
 ## Preview
 ![](https://i.imgur.com/xG8J3yM.gif)<br/>
-![](https://i.imgur.com/QVQcEUN.png)
+![](https://i.imgur.com/y4iW9hu.png)
 
 ## Usage
 - Python 3.6 or above is required.
