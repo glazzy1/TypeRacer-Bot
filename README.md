@@ -37,7 +37,7 @@ Private matches:
 6. CTRL + SHIFT + C or click [this arrow](https://i.imgur.com/zvxm2Aw.png).
 7. Select [the text](https://i.imgur.com/3D5SacJ.png).
 8. Right click on the selected element in **DevTools**, and click "Edit as HTML".
-9. Copy [the text](https://i.imgur.com/cN83wmr.png) and paste it in the program. Note: the first word may sometimes be excluded. Simply type it in manually if excluded.
+9. Copy [the text](https://i.imgur.com/cN83wmr.png) and paste it in the program. Note: the first word may sometimes be excluded, requiring manual input.
 10. Go back to the match, and make sure the txtInput field is visible.
 11. Lay back and watch!
 
