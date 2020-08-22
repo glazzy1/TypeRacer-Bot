@@ -1,4 +1,4 @@
-# typeracer.com-Bot
+# TypeRacer-Bot
 Automatically types for you on typeracer.com — without Selenium.
 
 ## Information
