@@ -4,7 +4,7 @@ Automatically types for you on typeracer.com — without Selenium.
 ## Information
 This tool was developed to demonstrate how straightforward it is to automate/cheat on a service like TypeRacer. This uses image recognition and not Selenium unlike my old TypeRacer script. Usage of this tool increases chances to win; especially by selecting the "Pro" or "Hacker" speed. It is 100% accurate and does not mistype. Please refrain from using this bot as it was developed for educational purposes only. Nevertheless, if you use this, you are doing it at your own risk — it is against TypeRacer's Terms of Service. You have been warned.
 
-It works in public, as well as private matches with friends.
+It works in public, as well as private matches with friends.<br/>
 Tutorial: https://www.youtube.com/watch?v=FqjH89JRGCY
 
 ## Preview
