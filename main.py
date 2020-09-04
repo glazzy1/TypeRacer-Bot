@@ -1,5 +1,6 @@
 import os
 import time
+
 import pyautogui
 
 os.system('cls && title [TypeRacer Bot] - Main Menu')
